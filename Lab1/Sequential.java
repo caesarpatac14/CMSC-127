@@ -146,5 +146,5 @@ public class Sequential {
 }
 
 /**
- * There are two ways of writing a error-free code; only the third one works. - Alan J. Perlis
+ * There are two ways of writing an error-free code; only the third one works. - Alan J. Perlis
  */
